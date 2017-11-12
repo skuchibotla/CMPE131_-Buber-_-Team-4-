@@ -1,0 +1,15 @@
+
+
+//saves the list of bike in a text file and creates in on your desktop after you quit the app
+public class Parser {
+	
+	void savebike(){
+		
+	}
+	
+	void loadbike()
+	{
+		
+	}
+
+}

@@ -1,0 +1,26 @@
+
+
+import java.util.ArrayList;
+
+public class Bike {
+
+	static ArrayList<CreateBike> bike = new ArrayList<CreateBike>();
+	static final String bikerate = "$10 per hour";
+
+	void availablebike() {
+	}
+
+//	int addBike(String name, int starttime, int endtime) {
+//		CreateBike b = new CreateBike(name, starttime, endtime);
+//		bike.add(b);
+//		return 0;
+//	}
+
+	void rentbike() {
+		// return updated arraylist
+	}
+
+	void notifyuser() {
+	}
+
+}

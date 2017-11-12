@@ -1,0 +1,75 @@
+
+
+public class CreateBike {
+
+	String bikename;
+	int timestart;
+	int timeend;
+	String location;
+	double price;
+
+	public CreateBike(String bikename, int timestart, int timeend, String location) {
+		this.bikename = bikename;
+		this.timestart = timestart;
+		this.timeend = timeend;
+		this.location=location;
+	}
+
+	public CreateBike(String bikename, double price, String location) {
+		this.bikename = bikename;
+		this.price = price;
+		this.location=location;
+	}
+	String getlocation()
+	{
+		return location;
+	}
+
+	double getprice() {
+		return price;
+	}
+
+	void setstarttime() {
+
+	}
+
+	int getstarttime() {
+		return timestart;
+
+	}
+
+	void setbikename() {
+
+	}
+
+	String getbikename() {
+		return bikename;
+
+	}
+
+	void setendtime() {
+
+	}
+
+	int getendtime() {
+		return timeend;
+
+	}
+
+	void addbike() {
+
+	}
+
+	String getrentedBike() {
+		String s = "your bike name is" + getbikename() + " " + " from " + getstarttime() + "till " + getendtime() + " ";
+		return s;
+	}
+
+	String getUserBike() {
+		//System.out.println("Bike  \tPrice");
+		//String s = "bike name is " + getbikename() + " bike " + "and is $" + getprice();
+		String s= getbikename()+"  \t"+getprice()+"  \t"+getlocation();		
+		return s;
+	}
+
+}

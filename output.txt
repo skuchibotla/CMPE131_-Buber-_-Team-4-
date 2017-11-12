@@ -1,0 +1,111 @@
+
+	WELCOME TO BUBER
+
+Please select any of the choices below
+[V]iew bikes  [a]dd bike  [r]ent bike [Q]uit [b]ack
+
+a
+Enter Bike name: 
+bike1
+Enter the price: 
+40
+Enter pick up location: 
+cvb
+Bike had been added for the people to rent
+
+	WELCOME TO BUBER
+
+Please select any of the choices below
+[V]iew bikes  [a]dd bike  [r]ent bike [Q]uit [b]ack
+
+a
+Enter Bike name: 
+bike2
+Enter the price: 
+50
+Enter pick up location: 
+engineering building
+Bike had been added for the people to rent
+
+	WELCOME TO BUBER
+
+Please select any of the choices below
+[V]iew bikes  [a]dd bike  [r]ent bike [Q]uit [b]ack
+
+a
+Enter Bike name: 
+bike3
+Enter the price: 
+60
+Enter pick up location: 
+mqquarrie hall
+Bike had been added for the people to rent
+
+	WELCOME TO BUBER
+
+Please select any of the choices below
+[V]iew bikes  [a]dd bike  [r]ent bike [Q]uit [b]ack
+
+v
+[a]vailable bikes 	 [r]ented bikes 	 [b]ack
+a
+Bike  	Price  	Location
+bike1  	40.0  	cvb
+bike2  	50.0  	engineering building
+bike3  	60.0  	mqquarrie hall
+
+	WELCOME TO BUBER
+
+Please select any of the choices below
+[V]iew bikes  [a]dd bike  [r]ent bike [Q]uit [b]ack
+
+r
+type the name of the bike to rent
+bike2
+Please enter pick up time (HH:mm 24hour-format): 
+15:45
+your rented bike is due at: 16:45
+bike has been rented
+bike2  	50.0  	engineering building
+
+	WELCOME TO BUBER
+
+Please select any of the choices below
+[V]iew bikes  [a]dd bike  [r]ent bike [Q]uit [b]ack
+
+v
+[a]vailable bikes 	 [r]ented bikes 	 [b]ack
+a
+Bike  	Price  	Location
+bike1  	40.0  	cvb
+bike3  	60.0  	mqquarrie hall
+
+	WELCOME TO BUBER
+
+Please select any of the choices below
+[V]iew bikes  [a]dd bike  [r]ent bike [Q]uit [b]ack
+
+v
+[a]vailable bikes 	 [r]ented bikes 	 [b]ack
+r
+bike2  	50.0  	engineering building
+
+	WELCOME TO BUBER
+
+Please select any of the choices below
+[V]iew bikes  [a]dd bike  [r]ent bike [Q]uit [b]ack
+
+b
+
+	WELCOME TO BUBER
+
+Please select any of the choices below
+[V]iew bikes  [a]dd bike  [r]ent bike [Q]uit [b]ack
+
+
+	WELCOME TO BUBER
+
+Please select any of the choices below
+[V]iew bikes  [a]dd bike  [r]ent bike [Q]uit [b]ack
+
+q
